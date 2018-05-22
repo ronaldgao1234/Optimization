@@ -1,7 +1,7 @@
 # Optimization
 
 ## Math164 UCLA course
-This is a repo of all the work in this class. My notes and my answers to solutions are at:
+This is a repo of all the work in this class. My notes and my answers to __solutions__ are at:
 
 _[ronaldgao.github.io](ronaldgao.github.io)_
 
